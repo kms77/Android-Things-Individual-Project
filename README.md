@@ -8,6 +8,8 @@
 	
 	
 # 2. Schematics
+
+![Schematics of the project](https://github.com/kms77/Android-Things-Individual-Project/blob/main/Schematics_KomsaAttila_IndividualProject.png)
 	
 # 3. Pre-Requisites
 	- Arduino UNO R3 Controller Board
