@@ -50,3 +50,5 @@
 
 		4. When the application is turned off after signalling the "turn off" command, the ultrasonic sensor will stop detecting the proximity of objects, and will no longer print to the screen
 # 6. Demo
+
+![Demo picture](https://github.com/kms77/Android-Things-Individual-Project/blob/main/Demo%20picture.jpg)
